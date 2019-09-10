@@ -2,9 +2,9 @@
 
 **Organizer**: [Peter A.I. Forsyth](mailto:peter.forsyth@borealisai.com)
 
-##Presentations
+## Presentations
 
-|Date| Topic | Presenter| Slides (Optional) | Location
+|Date| Topic | Presenter|Location|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 10 September 2019 | Organization | n/a | University of Waterloo| 
 | 24 September 2019 |  |Ad Tayal  | Borealis AI  |
