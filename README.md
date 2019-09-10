@@ -8,11 +8,11 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 10 September 2019 | Organization | N/A | University of Waterloo| 
 | 24 September 2019 | |Ad Tayal | Borealis AI |
-| 8 October 2019 | | | University of Waterloo |
+| 8 October 2019 | | | University of Waterloo (DC 3317) |
 | 22 October 2019 || | Borealis AI |
-| 5 November 2019 | | | University of Waterloo |
+| 5 November 2019 | | | University of Waterloo  (DC 3317)|
 | 3 December 2019 | | | Borealis AI |
-| 17 December 2019 | | | University of Waterloo |
+| 17 December 2019 | | | University of Waterloo (DC 3317) |
 
 ## Format
 
