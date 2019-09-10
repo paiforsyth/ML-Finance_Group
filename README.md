@@ -23,6 +23,6 @@
 * Be sure to include necessary background.  It is preferable to spend time explaining things you think are obvious than to risk the audience not understanding your presentation
 
 ## Non-Exclusive List of Potential Topics
-* Reinforcement learning for finance (investing, hedging, order execution)
-* Neural networks as interpolants (e.g. for fast calibration)
-* Distribution learning on financial data (perhaps using GANs, normalizing flows)
+* Reinforcement learning for finance (investing, [hedging](https://arxiv.org/pdf/1802.03042.pdf), order execution)
+* Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf) )
+* Distribution learning on financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
