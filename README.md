@@ -6,7 +6,7 @@
 
 |Date| Topic | Presenter| Location| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-| 10 September 2019 | Organization | N/A | University of Waterloo| 
+| 10 September 2019 | Organization | N/A | University of Waterloo (DC 2102)| 
 | 24 September 2019 | |Ad Tayal | Borealis AI |
 | 8 October 2019 | | | University of Waterloo (DC 3317) |
 | 22 October 2019 || | Borealis AI |
