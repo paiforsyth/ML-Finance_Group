@@ -1,4 +1,4 @@
-# University of Waterloo / Borealis AI Reading Group on Machine Learning and Finance
+# University of Waterloo / Borealis AI Machine Learning and Finance Reading Group
 
 **Organizer**: [Peter A.I. Forsyth](mailto:peter.forsyth@borealisai.com)
 
@@ -25,4 +25,5 @@
 ## Non-Exclusive List of Potential Topics
 * Reinforcement learning for finance (investing, [hedging](https://arxiv.org/pdf/1802.03042.pdf), order execution)
 * Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf) )
-* Distribution learning on financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
+* Distribution learning with financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
+* Prediction ([high](https://arxiv.org/pdf/1803.06917.pdf) and [low](http://dachxiu.chicagobooth.edu/download/ML.pdf) frequency )
