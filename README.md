@@ -7,17 +7,17 @@
 |Date| Topic | Presenter| Location| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 10 September 2019 | Organization | N/A | University of Waterloo (DC 2102)| 
-| 24 September 2019 | |Ad Tayal | Borealis AI |
-| 8 October 2019 | | | University of Waterloo (DC 3317) |
-| 22 October 2019 || | Borealis AI |
-| 5 November 2019 | | | University of Waterloo  (DC 3317)|
-| 19 November 2019 | | | Borealis AI|
-| 3 December 2019 | | | University of Waterloo  (DC 3317) |
-| 17 December 2019 | | | Borealis AI |
+| 24 September 2019 | |[Ad Tayal](aditya.tayal@borealisai.com) | Borealis AI |
+| 8 October 2019 | | [Ke Nian](knian@uwaterloo.ca) | University of Waterloo (DC 3317) |
+| 22 October 2019 || [Peter](mailto:peter.forsyth@borealisai.com)  | Borealis AI |
+| 5 November 2019 | | [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC 3317)|
+| 19 November 2019 | |  [Bo](bo.na@uwaterloo.ca) | Borealis AI|
+| 3 December 2019 | |  [Andrew](andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
+| 17 December 2019 | |  [Irene](yqhuang@uwaterloo.ca) | Borealis AI |
 
 ## Format
 
-* Select an interesting paper applying machine learning techniques to finance.
+* Select an interesting paper applying machine learning techniques to finance. Email Peter the name of your paper one week in advance.
 
 * Present a summary of the paper.
 
