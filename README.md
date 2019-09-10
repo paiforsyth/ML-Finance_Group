@@ -7,13 +7,13 @@
 |Date| Topic | Presenter| Location| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 10 September 2019 | Organization | N/A | University of Waterloo (DC 2102)| 
-| 24 September 2019 | |[Ad Tayal](aditya.tayal@borealisai.com) | Borealis AI |
-| 8 October 2019 | | [Ke Nian](knian@uwaterloo.ca) | University of Waterloo (DC 3317) |
+| 24 September 2019 | |[Ad Tayal](mailto:aditya.tayal@borealisai.com) | Borealis AI |
+| 8 October 2019 | | [Ke Nian](mailto:knian@uwaterloo.ca) | University of Waterloo (DC 3317) |
 | 22 October 2019 || [Peter](mailto:peter.forsyth@borealisai.com)  | Borealis AI |
 | 5 November 2019 | | [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC 3317)|
-| 19 November 2019 | |  [Bo](bo.na@uwaterloo.ca) | Borealis AI|
-| 3 December 2019 | |  [Andrew](andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
-| 17 December 2019 | |  [Irene](yqhuang@uwaterloo.ca) | Borealis AI |
+| 19 November 2019 | |  [Bo](mailto:bo.na@uwaterloo.ca) | Borealis AI|
+| 3 December 2019 | |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
+| 17 December 2019 | |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI |
 
 ## Format
 
