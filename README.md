@@ -26,9 +26,8 @@
 * Reinforcement learning for finance (investing, [hedging](https://arxiv.org/pdf/1802.03042.pdf), order execution)
 * Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf) )
 * Distribution learning with financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
-* Prediction ([high](https://arxiv.org/pdf/1803.06917.pdf) and [low](http://dachxiu.chicagobooth.edu/download/ML.pdf) frequency )
+* Prediction ([high](https://arxiv.org/pdf/1803.06917.pdf) and [low](http://dachxiu.chicagobooth.edu/download/ML.pdf) frequency)
 
 ## Why Applying Deep Learning to Finance is Hard
-
 * Data is non-stationary and extremely limited (except in high-frequency applications).
-* Interpretability is vital for persuading clients and regulators.
+* Interpretability is vital, both for anticipating how a model will behave in novel circumstances, and for persuading clients and regulators.
