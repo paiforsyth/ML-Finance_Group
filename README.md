@@ -11,8 +11,9 @@
 | 8 October 2019 | | | University of Waterloo (DC 3317) |
 | 22 October 2019 || | Borealis AI |
 | 5 November 2019 | | | University of Waterloo  (DC 3317)|
-| 3 December 2019 | | | Borealis AI |
-| 17 December 2019 | | | University of Waterloo (DC 3317) |
+| 19 November 2019 | | | Borealis AI|
+| 3 December 2019 | | | University of Waterloo  (DC 3317) |
+| 17 December 2019 | | | Borealis AI |
 
 ## Format
 
