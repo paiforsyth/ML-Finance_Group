@@ -16,7 +16,7 @@
 | 12 November 2019 | |  [Dan](mailto:daniel.recoskie@borealisai.com) | University of Waterloo (DC3317)|
 | 19 November 2019 | |  [Bo](mailto:bo.na@uwaterloo.ca) | University of Waterloo (DC3317)|
 | 26 November 2019 | |  [Kshitij](mailto:kshitij.jain@borealisai.com) | Borealis AI|
-| 3 December 2019 | |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
+| 3 December 2019 | Generative Adversarial Nets |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
 | 10 December 2019 | |  [Jakub](mailto:jakub.truszkowski@borealisai.com)  | University of Waterloo  (DC 3317) |
 | 17 December 2019 | |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI |
 
