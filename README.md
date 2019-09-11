@@ -2,6 +2,8 @@
 
 **Organizer**: [Peter A.I. Forsyth](mailto:peter.forsyth@borealisai.com)
 
+ [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
+
 ## Presentations
 
 |Date| Topic | Presenter| Location| Slides (Optional) | 
