@@ -13,8 +13,11 @@
 | 8 October 2019 | | [Ke Nian](mailto:knian@uwaterloo.ca) | University of Waterloo (DC 3317) |
 | 22 October 2019 || [Peter](mailto:peter.forsyth@borealisai.com)  | Borealis AI |
 | 5 November 2019 | | [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC 3317)|
-| 19 November 2019 | |  [Bo](mailto:bo.na@uwaterloo.ca) | Borealis AI|
+| 12 November 2019 | |  [Dan](mailto:daniel.recoskie@borealisai.com) | University of Waterloo (DC3317)|
+| 19 November 2019 | |  [Bo](mailto:bo.na@uwaterloo.ca) | University of Waterloo (DC3317)|
+| 26 November 2019 | |  [Kshitij](mailto:kshitij.jain@borealisai.com) | Borealis AI|
 | 3 December 2019 | |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC 3317) |
+| 10 December 2019 | |  [Jakub](mailto:jakub.truszkowski@borealisai.com)  | University of Waterloo  (DC 3317) |
 | 17 December 2019 | |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI |
 
 ## Format
