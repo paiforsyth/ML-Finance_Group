@@ -30,7 +30,7 @@
 
 ## Non-Exclusive List of Potential Topics
 * Reinforcement learning for finance (investing, [hedging](https://arxiv.org/pdf/1802.03042.pdf), order execution)
-* Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf) )
+* Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf))
 * Distribution learning with financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
 * Prediction ([high](https://arxiv.org/pdf/1803.06917.pdf) and [low](http://dachxiu.chicagobooth.edu/download/ML.pdf) frequency)
 
