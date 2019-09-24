@@ -9,7 +9,7 @@
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 10 September 2019 | Organization | N/A | University of Waterloo (DC 2102)| 
-| 24 September 2019 | [Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355706) |[Ad Tayal](mailto:aditya.tayal@borealisai.com) | Borealis AI |
+| 24 September 2019 | [Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355706) |[Ad Tayal](mailto:aditya.tayal@borealisai.com) | Borealis AI |[Slides](https://www.dropbox.com/s/h1nt8qo3ut84vnx/deephedging-pres.pdf?dl=0)|
 | 8 October 2019 |Data-Driven Model for Hedging | [Ke Nian](mailto:knian@uwaterloo.ca) | University of Waterloo (DC 3317) |
 | 22 October 2019 || [Peter](mailto:peter.forsyth@borealisai.com)  | Borealis AI |
 | 5 November 2019 | | [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC 3317)|
