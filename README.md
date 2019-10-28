@@ -12,7 +12,7 @@
 | 24 September 2019 | [Deep Hedging](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355706) |[Ad Tayal](mailto:aditya.tayal@borealisai.com) | Borealis AI |[Slides](https://www.dropbox.com/s/h1nt8qo3ut84vnx/deephedging-pres.pdf?dl=0)|
 | 8 October 2019 |Data-Driven Model for Hedging ([Paper1](https://www.dropbox.com/s/6qsrspbemsjufbh/NianColemanLi_RQUF_2016.pdf?dl=0), [Paper2](https://www.dropbox.com/s/lcd9m9kfwqwvh9b/PaperDraftV2.pdf?dl=0), [Paper3](https://www.dropbox.com/s/sausd8fw7sklc5j/Volatility_interpolation%20%281%29.pdf?dl=0)) | [Ke Nian](mailto:knian@uwaterloo.ca) | University of Waterloo (DC1304) |[Slides](https://www.dropbox.com/s/bnpg6ruhfnsrp9v/data_driven.pdf?dl=0)
 | 22 October 2019 | Option Pricing with Machine Learning ([Paper1](https://pdfs.semanticscholar.org/9df0/8f468267c83e144b42e92a453b61010b5e5b.pdf), [Paper2](https://arxiv.org/pdf/1708.07469.pdf)) | [Peter](mailto:peter.forsyth@borealisai.com)  | Borealis AI | [Slides](https://www.dropbox.com/s/mu4qhf3btafijx7/Oct22Slides_modified.pdf?dl=0)
-| 5 November 2019 | | [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC3317)|
+| 5 November 2019 | A Neural Network Approach to Optimal Asset Allocation With Stochastic Benchmark Targets| [Chendi](mailto:chendi.ni@uwaterloo.ca)  | University of Waterloo  (DC1304)|
 | 12 November 2019 | |  [Dan](mailto:daniel.recoskie@borealisai.com) | University of Waterloo (DC3317)|
 | 19 November 2019 | |  [Bo](mailto:bo.na@uwaterloo.ca) | University of Waterloo (DC3317)|
 | 26 November 2019 | |  [Kshitij](mailto:kshitij.jain@borealisai.com) | Borealis AI|
