@@ -16,7 +16,7 @@
 | 12 November 2019 | [Universal features of price formation in financial markets: perspectives from Deep Learning](http://rama.cont.perso.math.cnrs.fr/pdf/SirignanoCont2019.pdf)  |  [Dan](mailto:daniel.recoskie@borealisai.com) | University of Waterloo (DC3317)| [Slides](https://www.dropbox.com/s/2n3qcnxxxg6ouvf/dan_slides.pdf?dl=0)
 | 19 November 2019 | Neural Network Optimal Asset Allocation: Put Writing and Trend Following Strategy  |  [Bo](mailto:bo.na@uwaterloo.ca) | University of Waterloo (DC3317)| [Slides](https://www.dropbox.com/s/sncz402aookaysi/presentation_bo.pdf?dl=0)
 | 26 November 2019 |[Stock Movement Prediction from Tweets and Historical Prices](https://www.aclweb.org/anthology/P18-1183.pdf) |  [Kshitij](mailto:kshitij.jain@borealisai.com) | Borealis AI|[Slides](https://www.dropbox.com/s/x86ekkui4ge9rf1/Kshitij_presentation.pdf?dl=0)
-| 3 December 2019 | Generative Adversarial Nets |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC3317) |
+| 3 December 2019 | Generative Adversarial Nets for Financial Trading Strategies [Paper](https://arxiv.org/pdf/1901.01751.pdf) |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC3317) |
 | 10 December 2019 | |  [Jakub](mailto:jakub.truszkowski@borealisai.com)  | University of Waterloo  (DC3317) |
 | 17 December 2019 | |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI |
 
