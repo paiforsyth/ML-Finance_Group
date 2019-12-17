@@ -18,7 +18,7 @@
 | 26 November 2019 |[Stock Movement Prediction from Tweets and Historical Prices](https://www.aclweb.org/anthology/P18-1183.pdf) |  [Kshitij](mailto:kshitij.jain@borealisai.com) | Borealis AI|[Slides](https://www.dropbox.com/s/x86ekkui4ge9rf1/Kshitij_presentation.pdf?dl=0)
 | 3 December 2019 | Generative Adversarial Nets for Financial Trading Strategies ([Paper](https://arxiv.org/pdf/1901.01751.pdf)) |  [Andrew](mailto:andrew.na@uwaterloo.ca)  | University of Waterloo  (DC3317) (Special time: 11:00am) | [Slides](https://www.dropbox.com/s/n7bikg4ycuiiv07/Andrew_GAN_fine_tuning.pdf?dl=0)
 | 10 December 2019 | Machine Learning for XVA ([Paper](https://math.maths.univ-evry.fr/crepey/papers/Deep-XVA-Analysis-SHORT.pdf))|  [Jakub](mailto:jakub.truszkowski@borealisai.com)  | University of Waterloo  (DC3317) |
-| 17 December 2019 | [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf) and [Optimal Trend Following Trading Rules](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0743) |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI |
+| 17 December 2019 | [Enhancing Time Series Momentum Strategies Using Deep Neural Networks](https://arxiv.org/pdf/1904.04912.pdf) and [Optimal Trend Following Trading Rules](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0743) |  [Irene](mailto:yqhuang@uwaterloo.ca) | Borealis AI | [Slides](https://www.dropbox.com/s/cfiaegrwk8gz6w0/TrendDMN_yqhuang_20191217_2papers.pdf?dl=0)
 
 ## Time
 12:00 Noon.
