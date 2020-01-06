@@ -4,7 +4,7 @@
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
-## Presenations (Winter 2020)
+## Presentations (Winter 2020)
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2310)| |
