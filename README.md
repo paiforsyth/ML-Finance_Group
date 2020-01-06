@@ -12,7 +12,7 @@
 | 10  February 2020 | Organization || University of Waterloo (DC2310) | | 
 | 24 February 2020 | Organization || Borealis AI | | 
 | 9 March 2020 | Organization || University of Waterloo (DC2310)| | 
-| 16 March 2020 | Organization || Borealis AI ()| | 
+| 16 March 2020 | Organization || Borealis AI | | 
 | 30 March 2020 | Organization || University of Waterloo (DC2310)| | 
 
 
