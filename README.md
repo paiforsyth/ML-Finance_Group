@@ -8,13 +8,13 @@
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
-| 27 January 2020 |  | | Borealis AI| |
-| 10  February 2020 | || University of Waterloo (DC2310) | | 
-| 24 February 2020 |  || Borealis AI | | 
-| 9 March 2020 |  || University of Waterloo (DC2310)| | 
-| 23 March 2020 | || Borealis AI | | 
-| 6 April 2020 |  || University of Waterloo (DC2310)| |
-| 20 April 2020 |  || Borealis AI | |
+| 27 January 2020 | Nick | | Borealis AI| |
+| 10  February 2020 | Chendi || University of Waterloo (DC2310) | | 
+| 24 February 2020 | Pascal  || Borealis AI | | 
+| 9 March 2020 | Pieter || University of Waterloo (DC2310)| | 
+| 23 March 2020 | Borealis Presenter || Borealis AI | | 
+| 6 April 2020 |  --- || University of Waterloo (DC2310)| |
+| 20 April 2020 | Borealis Presenter || Borealis AI | |
 
 ## Presentations (Fall 2019)
 
