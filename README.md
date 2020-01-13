@@ -12,9 +12,10 @@
 | 10  February 2020 | || University of Waterloo (DC2310) | | 
 | 24 February 2020 |  || Borealis AI | | 
 | 9 March 2020 |  || University of Waterloo (DC2310)| | 
-| 16 March 2020 | || Borealis AI | | 
+| 23 March 2020 | || Borealis AI | | 
 | 30 March 2020 |  || University of Waterloo (DC2310)| | 
-
+| 6 April 2020 |  || Borealis| |
+| 20 April 2020 |  || University of Waterloo (DC2310) | |
 
 ## Presentations (Fall 2019)
 
