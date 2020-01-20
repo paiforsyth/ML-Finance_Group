@@ -8,7 +8,7 @@
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
-| 27 January 2020 | |Nick |  Unveristy of Waterloo (DC2310) |
+| 27 January 2020 |Option Data Augmentation Using the SABR model and LVF |Nick |  Unveristy of Waterloo (DC2310) |
 | 10  February 2020| | Chendi | University of Waterloo (DC2310) | | 
 | 24 February 2020| | Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
