@@ -12,7 +12,7 @@
 | 10  February 2020| | Chendi | University of Waterloo (DC2310) | | 
 | 24 February 2020| | Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
-| 23 March 2020 || Borealis Presenter | Borealis AI | | 
+| 23 March 2020 || Ad Tayal| Borealis AI | | 
 | 6 April 2020 ||  --- | University of Waterloo (DC2310)| |
 | 20 April 2020 || Borealis Presenter | Borealis AI | |
 
