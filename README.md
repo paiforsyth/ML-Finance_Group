@@ -8,7 +8,7 @@
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
-| 27 January 2020 |Option Data Augmentation Using the SABR model and LVF |Nick |  Unveristy of Waterloo (DC2310) | https://www.dropbox.com/s/tuatslje9sdwc7o/Nian2020.pdf?dl=0|
+| 27 January 2020 |Option Data Augmentation Using the SABR model and LVF |Nick |  Unveristy of Waterloo (DC2310) | [Slides](https://www.dropbox.com/s/tuatslje9sdwc7o/Nian2020.pdf?dl=0)|
 | 10  February 2020| | Chendi | University of Waterloo (DC2310) | | 
 | 24 February 2020| | Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
