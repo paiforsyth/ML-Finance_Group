@@ -9,7 +9,7 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
 | 27 January 2020 |Option Data Augmentation Using the SABR model and LVF |Nick |  Unveristy of Waterloo (DC2310) | [Slides](https://www.dropbox.com/s/tuatslje9sdwc7o/Nian2020.pdf?dl=0)|
-| 10  February 2020|[Stochastic Portfolio Theory: A Machine Learning Perspective](https://arxiv.org/pdf/1605.02654.pdf) | Chendi | University of Waterloo (DC2310) | | 
+| 10  February 2020|[Stochastic Portfolio Theory: A Machine Learning Perspective](https://arxiv.org/pdf/1605.02654.pdf) | Chendi | University of Waterloo (DC2310) |  [Slides](https://www.dropbox.com/s/n7bikg4ycuiiv07/Andrew_GAN_fine_tuning.pdf?dl=0) | 
 | 24 February 2020| | Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
 | 23 March 2020 || Ad Tayal| Borealis AI | | 
