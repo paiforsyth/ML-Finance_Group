@@ -13,7 +13,7 @@
 | 24 February 2020|Meta-learning for Optimization| Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
 | 23 March 2020 ||Borealis Presenter| Borealis AI | | 
-| 6 April 2020 ||  --- | University of Waterloo (DC2310)| |
+| 6 April 2020 ||  Irene | University of Waterloo (DC2310)| |
 | 20 April 2020 || Borealis Presenter | Borealis AI | |
 
 ## Presentations (Fall 2019)
