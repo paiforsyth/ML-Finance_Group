@@ -12,7 +12,7 @@
 | 10  February 2020|[Stochastic Portfolio Theory: A Machine Learning Perspective](https://arxiv.org/pdf/1605.02654.pdf) | Chendi | University of Waterloo (DC2310) |  [Slides](https://www.dropbox.com/s/yhq0133omyzcfl3/Borealis_Meeting_Feb_10%20%281%29.pdf?dl=0) | 
 | 24 February 2020|Meta-learning for Optimization| Pascal  | Borealis AI | | 
 | 9 March 2020 || Pieter | University of Waterloo (DC2310)| | 
-| 23 March 2020 || Ad Tayal| Borealis AI | | 
+| 23 March 2020 ||Borealis Presenter| Borealis AI | | 
 | 6 April 2020 ||  --- | University of Waterloo (DC2310)| |
 | 20 April 2020 || Borealis Presenter | Borealis AI | |
 
