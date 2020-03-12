@@ -10,7 +10,7 @@
 | 13 January 2020 | Organization | N/A | University of Waterloo (DC2102)| |
 | 27 January 2020 |Option Data Augmentation Using the SABR model and LVF |Nick |  Unveristy of Waterloo (DC2310) | [Slides](https://www.dropbox.com/s/tuatslje9sdwc7o/Nian2020.pdf?dl=0)|
 | 10  February 2020|[Stochastic Portfolio Theory: A Machine Learning Perspective](https://arxiv.org/pdf/1605.02654.pdf) | Chendi | University of Waterloo (DC2310) |  [Slides](https://www.dropbox.com/s/yhq0133omyzcfl3/Borealis_Meeting_Feb_10%20%281%29.pdf?dl=0) | 
-| 24 February 2020|Meta-learning for Optimization| Pascal  | Borealis AI | | 
+| 24 February 2020|Meta-learning for Optimization| Pascal  | Borealis AI | [Slides](https://www.dropbox.com/s/9pj5jt9fp7hw4v4/pascal_metalearning.pdf?dl=0) | 
 | 9 March 2020 |The Distribution of Terminal Wealth Under Dynamic Mean-Variance Optimal Investment Strategies| Pieter | University of Waterloo (DC2310)| [Slides](https://www.dropbox.com/s/vjgjhjj8yphce6f/PVS-Distributions-v03.pdf?dl=0) | 
 | 23 March 2020 ||Borealis Presenter| Borealis AI | | 
 | 6 April 2020 ||  Irene | University of Waterloo (DC2310)| |
