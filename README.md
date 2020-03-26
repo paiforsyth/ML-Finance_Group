@@ -13,7 +13,7 @@
 | 24 February 2020|Meta-learning for Optimization| Pascal  | Borealis AI | [Slides](https://www.dropbox.com/s/9pj5jt9fp7hw4v4/pascal_metalearning.pdf?dl=0) | 
 | 9 March 2020 |The Distribution of Terminal Wealth Under Dynamic Mean-Variance Optimal Investment Strategies| Pieter | University of Waterloo (DC2310)| [Slides](https://www.dropbox.com/s/vjgjhjj8yphce6f/PVS-Distributions-v03.pdf?dl=0) | 
 | 23 March 2020 |[A deep learning approach for computations of exposure profiles for high-dimensional Bermudan options](https://arxiv.org/pdf/2003.01977.pdf)|Peter| Zoom | [Slides](https://www.dropbox.com/s/t3evheje5qfh00s/Anderson_and_Oosterlee_presentation_march_23.pdf?dl=0) | 
-| 6 April 2020 |[DeepTrax: Embedding Graphs of Financial Transactions](https://arxiv.org/pdf/1907.07225.pdf) |  Andrew | Zoom|  |
+| 6 April 2020 | Option pricing with residual networks |  Andrew | Zoom|  |
 | 20 April 2020 || Borealis Presenter | Zoom | |
 
 ## Presentations (Fall 2019)
