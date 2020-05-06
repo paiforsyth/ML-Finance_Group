@@ -4,6 +4,21 @@
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
+
+## Presentations (Summer 2020)
+
+|Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+|26 May 2020|  | | |  | 
+|9 June 2020|  | | |  | 
+|23 June 2020|  | | |  | 
+|7 July 2020|  | | |  | 
+|21 July 2020|  | | |  | 
+|4 August 2020|  | | |  | 
+|18 August 2020|  | | |  |
+
+
+
 ## Presentations (Winter 2020)
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
