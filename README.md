@@ -9,13 +9,13 @@
 
 |Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|26 May 2020|  | | |  | 
-|9 June 2020|  | | |  | 
-|23 June 2020|  | | |  | 
-|7 July 2020|  | | |  | 
-|21 July 2020|  | | |  | 
-|4 August 2020|  | | |  | 
-|18 August 2020|  | | |  |
+|26 May 2020|  | |Zooom |  | 
+|9 June 2020|  | |Zooom |  | 
+|23 June 2020|  | |Zooom |  | 
+|7 July 2020|  | |Zooom |  | 
+|21 July 2020|  | |Zooom |  | 
+|4 August 2020|  | | Zooom|  | 
+|18 August 2020|  | | Zooom|  |
 
 
 
