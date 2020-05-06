@@ -14,7 +14,7 @@
 | 9 March 2020 |The Distribution of Terminal Wealth Under Dynamic Mean-Variance Optimal Investment Strategies| Pieter | University of Waterloo (DC2310)| [Slides](https://www.dropbox.com/s/vjgjhjj8yphce6f/PVS-Distributions-v03.pdf?dl=0) | 
 | 23 March 2020 |[A deep learning approach for computations of exposure profiles for high-dimensional Bermudan options](https://arxiv.org/pdf/2003.01977.pdf)|Peter| Zoom | [Slides](https://www.dropbox.com/s/t3evheje5qfh00s/Anderson_and_Oosterlee_presentation_march_23.pdf?dl=0) | 
 | 6 April 2020 | Option pricing with residual networks ([paper](https://arxiv.org/abs/1909.11532)) |  Andrew | Zoom| [Slides](https://www.dropbox.com/s/3opzqnkw572uheu/Andrew_Na_BSDE_NN.pdf?dl=0)  |
-| 20 April 2020 || Borealis Presenter | Zoom | |
+
 
 ## Presentations (Fall 2019)
 
