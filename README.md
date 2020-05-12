@@ -13,7 +13,7 @@
 |9 June 2020|  | |Zoom |  | 
 |23 June 2020|  | |Zoom |  | 
 |7 July 2020| Irene | |Zoom |  | 
-|21 July 2020| Justin's Student | |Zoom |  | 
+|21 July 2020| Andrew?  | |Zoom |  | 
 |4 August 2020| Chendi | | Zoom|  | 
 |18 August 2020| Pieter | Factor Investing | Zoom|  |
 
