@@ -7,7 +7,7 @@
 
 ## Presentations (Summer 2020)
 
-|Date| Topic | Presenter| Location (May change)| Slides (Optional) | 
+|Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |26 May 2020|  | |Zoom |  | 
 |9 June 2020|  | |Zoom |  | 
