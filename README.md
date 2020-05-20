@@ -10,7 +10,7 @@
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |26 May 2020|  | |Zoom |  | 
-|9 June 2020|  | |Zoom |  | 
+|9 June 2020| Giuseppe | |Zoom |  | 
 |23 June 2020|  Francis | |Zoom |  | 
 |7 July 2020| Irene | |Zoom |  | 
 |21 July 2020| Andrew?  | |Zoom |  | 
