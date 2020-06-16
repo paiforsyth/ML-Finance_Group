@@ -10,7 +10,7 @@
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |9 June 2020| Giuseppe | [Smooth Market Games](https://arxiv.org/abs/2001.04678) |Zoom | [Slides](https://www.dropbox.com/s/u2aleceamfwxcbb/Smooth%20Markets.pdf?dl=0) | 
-|23 June 2020|  Francis | |Zoom |  | 
+|23 June 2020|  Francis | [Empirical Asset Pricing  via Machine Learning](https://dachxiu.chicagobooth.edu/download/ML.pdf) |Zoom |  | 
 |7 July 2020| Irene | |Zoom |  | 
 |21 July 2020| Andrew?  | |Zoom |  | 
 |4 August 2020| Chendi | | Zoom|  | 
