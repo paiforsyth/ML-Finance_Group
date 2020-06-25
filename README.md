@@ -11,7 +11,7 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |9 June 2020| Giuseppe | [Smooth Market Games](https://arxiv.org/abs/2001.04678) |Zoom | [Slides](https://www.dropbox.com/s/u2aleceamfwxcbb/Smooth%20Markets.pdf?dl=0) | 
 |23 June 2020|  Francis | [Empirical Asset Pricing  via Machine Learning](https://dachxiu.chicagobooth.edu/download/ML.pdf) |Zoom | [Slides](https://www.dropbox.com/s/qourgeriog6vxpb/Empirical%20Asset%20Pricing%20%281%29.pdf?dl=0) | 
-|7 July 2020| Irene | |Zoom |  | 
+|7 July 2020| Irene | [Deep Learning for Portfolio Optimisation](https://arxiv.org/pdf/2005.13665.pdf) |Zoom |  | 
 |21 July 2020| Andrew?  | |Zoom |  | 
 |4 August 2020| Chendi | | Zoom|  | 
 |18 August 2020| Pieter | Factor Investing | Zoom|  |
