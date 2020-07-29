@@ -13,7 +13,7 @@
 |23 June 2020|  Francis | [Empirical Asset Pricing  via Machine Learning](https://dachxiu.chicagobooth.edu/download/ML.pdf) |Zoom | [Slides](https://www.dropbox.com/s/qourgeriog6vxpb/Empirical%20Asset%20Pricing%20%281%29.pdf?dl=0) | 
 |7 July 2020| Irene | [Deep Learning for Portfolio Optimisation](https://arxiv.org/pdf/2005.13665.pdf) |Zoom | [Slides](https://www.dropbox.com/s/ymbjal17bi9v5u8/DLPortfolioOpt_yqhuang_20200707.pdf?dl=0) | 
 |21 July 2020| Andrew  | [A mean-field analysis of two-player zero-sum games](https://arxiv.org/abs/2002.06277)  |Zoom | [Slides](https://www.dropbox.com/s/2ku1o3unrh3kt72/Andrew_games.pdf?dl=0)  | 
-|4 August 2020| Chendi | | Zoom|  | 
+|4 August 2020| Chendi |Data-drive approach to asset allocation with tax | Zoom|  | 
 |18 August 2020| Pieter | Factor Investing | Zoom|  |
 
 
