@@ -14,7 +14,7 @@
 |7 July 2020| Irene | [Deep Learning for Portfolio Optimisation](https://arxiv.org/pdf/2005.13665.pdf) |Zoom | [Slides](https://www.dropbox.com/s/ymbjal17bi9v5u8/DLPortfolioOpt_yqhuang_20200707.pdf?dl=0) | 
 |21 July 2020| Andrew  | [A mean-field analysis of two-player zero-sum games](https://arxiv.org/abs/2002.06277)  |Zoom | [Slides](https://www.dropbox.com/s/2ku1o3unrh3kt72/Andrew_games.pdf?dl=0)  | 
 |4 August 2020| Chendi |Data-driven approach to asset allocation with tax | Zoom| [Slides](https://www.dropbox.com/s/lqvbr2md04w6mpl/Tax_Problem_Presentation%285%29.pdf?dl=0)  | 
-|18 August 2020| Pieter | Factor Investing | Zoom|  |
+|18 August 2020| Pieter | Factor Investing | Zoom| [Slides](https://www.dropbox.com/s/lrgc8nfuy2kgr5z/Talk%20-%20Factor%20investing.pdf?dl=0) |
 
 
 
