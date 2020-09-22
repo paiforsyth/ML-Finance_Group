@@ -8,12 +8,12 @@
 ## Presentations (Fall 2020)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|October 6|  |  |  | |
-|October 20|  | ||  | 
+|October 6| Andrew |  |  | |
+|October 20|Chendi  | ||  | 
 |November 3|Pablo | | |  | 
-|November 17| | | |  | 
-|Dec 1| | | |  | 
-|Dec 15| | | |  
+|November 17|Borealis Presenter | | |  | 
+|Dec 1| Pieter | | |  | 
+|Dec 15| Irene(Tentative) | | |  
 
 
 
