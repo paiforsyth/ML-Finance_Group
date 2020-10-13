@@ -8,7 +8,7 @@
 ## Presentations (Fall 2020)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|October 6| Andrew |  |  | |
+|October 6| Andrew | A summary of Machine learning in Option Pricing on arxiv |  |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
 |October 20|Chendi  | ||  | 
 |November 3|Pablo | | |  | 
 |November 17|Borealis Presenter | | |  | 
