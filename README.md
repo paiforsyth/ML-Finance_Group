@@ -8,8 +8,8 @@
 ## Presentations (Fall 2020)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|October 6| Andrew | A summary of Machine learning in Option Pricing on arxiv |  |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
-|October 20|Chendi  |A summary of Machine learning in Wealth Management on arxiv ||  | 
+|October 6| Andrew | A summary of Machine learning in Option Pricing on arxiv | Zoom |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
+|October 20|Chendi  |A summary of Machine learning in Wealth Management on arxiv |Zoom| [Slides](https://www.dropbox.com/s/y95jhfzue3p7j54/Oct_20_Borealis_AI_Presentation.pdf?dl=0)  | 
 |November 3|Pablo | | |  | 
 |November 17|Borealis Presenter | | |  | 
 |Dec 1| Pieter | | |  | 
