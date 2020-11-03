@@ -10,7 +10,7 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |October 6| Andrew | A summary of Machine learning in Option Pricing on arxiv | Zoom |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
 |October 20|Chendi  |A summary of Machine learning in Wealth Management on arxiv |Zoom| [Slides](https://www.dropbox.com/s/y95jhfzue3p7j54/Oct_20_Borealis_AI_Presentation.pdf?dl=0)  | 
-|November 3|Pablo | | |  | 
+|November 3|Pablo | [AlphaPorfolio for Investment and economically Interpretable AI](https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/cong_AlphaPortfolio.pdf) | Zoom | [Slides](https://www.dropbox.com/s/loxwpj2zayfalew/Alphaportfolio.pdf?dl=0) | 
 |November 17|Borealis Presenter | | |  | 
 |Dec 1| Pieter | | |  | 
 |Dec 15| Irene(Tentative) | | |  
