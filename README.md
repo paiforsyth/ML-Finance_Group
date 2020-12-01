@@ -13,7 +13,7 @@
 |November 3|Pablo | [AlphaPorfolio for Investment and economically Interpretable AI](https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/cong_AlphaPortfolio.pdf) | Zoom | [Slides](https://www.dropbox.com/s/loxwpj2zayfalew/Alphaportfolio.pdf?dl=0) | 
 |November 17|Peter | Neural Importance Sampling | Zoom  | [Slides](https://www.dropbox.com/s/234n7xb14nb0gvx/Neural_Importance_Sampling.pdf?dl=0) | 
 |Dec 1| Pieter |Factor Investing: a Short Overview of the Research Over the Last 10 Years | |  | 
-|Dec 15| Irene(Tentative) | | |  
+
 
 
 
