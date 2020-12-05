@@ -8,11 +8,11 @@
 ## Presentations (Fall 2020)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|October 6| Andrew | A summary of Machine learning in Option Pricing on arxiv | Zoom |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
-|October 20|Chendi  |A summary of Machine learning in Wealth Management on arxiv |Zoom| [Slides](https://www.dropbox.com/s/y95jhfzue3p7j54/Oct_20_Borealis_AI_Presentation.pdf?dl=0)  | 
-|November 3|Pablo | [AlphaPorfolio for Investment and economically Interpretable AI](https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/cong_AlphaPortfolio.pdf) | Zoom | [Slides](https://www.dropbox.com/s/loxwpj2zayfalew/Alphaportfolio.pdf?dl=0) | 
-|November 17|Peter | Neural Importance Sampling | Zoom  | [Slides](https://www.dropbox.com/s/234n7xb14nb0gvx/Neural_Importance_Sampling.pdf?dl=0) | 
-|Dec 1| Pieter |Factor Investing: a Short Overview of the Research Over the Last 10 Years | Zoom | [Slides](https://www.dropbox.com/s/2intlltag5z9g3x/Talk2%20-%20Factor%20investing.pdf?dl=0)  | 
+|6 October 2020| Andrew | A summary of Machine learning in Option Pricing on arxiv | Zoom |[Slides](https://www.dropbox.com/s/s97ysp9klgm8brd/Andrew_summary.pptx?dl=0) [Table](https://www.dropbox.com/s/ohuu4exvol8aplb/arxiv%20graphs.xlsx?dl=0) |
+|20 October 2020|Chendi  |A summary of Machine learning in Wealth Management on arxiv |Zoom| [Slides](https://www.dropbox.com/s/y95jhfzue3p7j54/Oct_20_Borealis_AI_Presentation.pdf?dl=0)  | 
+|3 November 2020|Pablo | [AlphaPorfolio for Investment and economically Interpretable AI](https://faculty.comm.virginia.edu/sdb7e/files/mcintireSeminars/cong_AlphaPortfolio.pdf) | Zoom | [Slides](https://www.dropbox.com/s/loxwpj2zayfalew/Alphaportfolio.pdf?dl=0) | 
+|17 November 2020|Peter | Neural Importance Sampling | Zoom  | [Slides](https://www.dropbox.com/s/234n7xb14nb0gvx/Neural_Importance_Sampling.pdf?dl=0) | 
+|1 December 2020| Pieter |Factor Investing: a Short Overview of the Research Over the Last 10 Years | Zoom | [Slides](https://www.dropbox.com/s/2intlltag5z9g3x/Talk2%20-%20Factor%20investing.pdf?dl=0)  | 
 
 
 
