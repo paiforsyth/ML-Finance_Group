@@ -5,6 +5,19 @@
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
 
+
+## Presentations (Winter 2021)
+|Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+|26 January 2021| Organization  |  | | | | 
+|9 February 2021|  |  | | | | 
+|23 February 2021|  |  | | | | 
+|9 March 2021|  |  | | | | 
+|23 March 2021|  |  | | | | 
+|6 April 2021|  |  | | | | 
+|20 April 2021|  |  | | | |
+
+
 ## Presentations (Fall 2020)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
