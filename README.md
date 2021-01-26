@@ -11,11 +11,11 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |26 January 2021| Organization  |  | | | | 
 |9 February 2021| Dan  |  | | | | 
-|23 February 2021|  |  | | | | 
+|23 February 2021|Michael  |  | | | | 
 |9 March 2021| Ashish |  | | | | 
-|23 March 2021|  |  | | | | 
+|23 March 2021| Chendi |  | | | | 
 |6 April 2021| Francis |  | | | | 
-|20 April 2021|  |  | | | |
+|20 April 2021|Irene  |  | | | |
 
 
 ## Presentations (Fall 2020)
