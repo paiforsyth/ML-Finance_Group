@@ -10,7 +10,7 @@
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |26 January 2021| Organization  |  | | | | 
-|9 February 2021| Dan  |  | | | | 
+|9 February 2021| Dan  |[Autoregressive Convolutional Neural Networks for Asynchronous Time Series](http://proceedings.mlr.press/v80/binkowski18a/binkowski18a.pdf)  | | | | 
 |23 February 2021|Michael  |  | | | | 
 |9 March 2021| Ashish |  | | | | 
 |23 March 2021| Chendi |  | | | | 
