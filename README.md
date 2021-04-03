@@ -13,7 +13,7 @@
 |9 February 2021| Dan  |[Autoregressive Convolutional Neural Networks for Asynchronous Time Series](http://proceedings.mlr.press/v80/binkowski18a/binkowski18a.pdf)  | Zoom| [Slides](https://www.dropbox.com/s/s4b5y3n2reo17fb/dan_slides_2021_feb.pdf?dl=0) | | 
 |23 February 2021|Michael  | [A neural network-based framework for financial model calibration](https://arxiv.org/abs/1904.10523) |Zoom | [Slides](https://www.dropbox.com/s/nuxwpg2szm99yy9/Calibration%20Presentation.pptx?dl=0) || 
 |23 March 2021| Chendi | [The Market Generator](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384948) |Zoom | | | 
-|6 April 2021| Francis |  | | | | 
+|6 April 2021| Francis |[The Deep Parametric PDE Method: Application to Option Pricing](https://arxiv.org/abs/2012.06211)   |Zoom | | [Slides](https://docs.google.com/presentation/d/1AxqdMAFp8HAGY3j21J83KYsKvyV55hg3S4uDu1_wz3I/edit?usp=sharing) | 
 |13 April 2021| Ashish |  | | | | 
 |20 April 2021|Irene  |  | | | |
 
