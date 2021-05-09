@@ -8,7 +8,7 @@
 ## Presentations (Summer 2021)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|25 May 2021| Organization  |  | | | | 
+|25 May 2021|   | Organization | | | | 
 |1 June 2021|   |  | | | | 
 |15 June 2021|   |  | | | | 
 |29 June 2021|   |  | | | | 
