@@ -8,13 +8,13 @@
 ## Presentations (Summer 2021)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|25 May 2021|   | Organization | | | | 
-|1 June 2021|   | Chapter 1-2  | | | | 
-|15 June 2021|   | Chapter 3  | | | | 
-|29 June 2021|   | Chapter 4  | | | | 
-|13 July 2021|   | Chapter 5  | | | | 
-|27 July 2021|   |  Chapter 6 | | | | 
-|10 August 2021|   | Chapter 7  | | | | 
+|25 May 2021|   | Organization | |Zoom | | 
+|1 June 2021|   | Chapter 1-2  | |Zoom | | 
+|15 June 2021|   | Chapter 3  | |Zoom | | 
+|29 June 2021|   | Chapter 4  | |Zoom | | 
+|13 July 2021|   | Chapter 5  | |Zoom | | 
+|27 July 2021|   |  Chapter 6 | |Zoom | | 
+|10 August 2021|   | Chapter 7  |Zoom | | | 
 
 ## Presentations (Winter 2021)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
