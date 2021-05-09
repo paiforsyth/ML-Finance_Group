@@ -5,6 +5,16 @@
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
 
+## Presentations (Summer 2021)
+|Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+|25 May 2021| Organization  |  | | | | 
+|1 June 2021|   |  | | | | 
+|15 June 2021|   |  | | | | 
+|29 June 2021|   |  | | | | 
+|13 July 2021|   |  | | | | 
+|27 July 2021|   |  | | | | 
+|10 August 2021|   |  | | | | 
 
 ## Presentations (Winter 2021)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
