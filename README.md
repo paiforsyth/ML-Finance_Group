@@ -9,7 +9,7 @@
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |25 May 2021|   | Organization | Zoom | | 
-|1 June 2021|   | Chapter 1-2  | Zoom | | 
+|1 June 2021|Peter   | Chapter 1-2  | Zoom | | 
 |15 June 2021|   | Chapter 3  | Zoom | | 
 |29 June 2021|   | Chapter 4  | Zoom | | 
 |13 July 2021|   | Chapter 5  | Zoom | | 
