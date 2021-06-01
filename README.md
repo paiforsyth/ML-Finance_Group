@@ -9,8 +9,8 @@
 [Text](https://www.amazon.ca/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=evaluating+derivatives&qid=1620660996&sr=8-1): Griewank, Andreas, and Andrea Walther. Evaluating derivatives: principles and techniques of algorithmic differentiation. Society for Industrial and Applied Mathematics, 2008.
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|25 May 2021|   | Organization | Zoom |[Link](https://www.dropbox.com/s/9mtzkx1mbqfg7ot/ad_talk_peter_1_2.pdf?dl=0) | 
-|1 June 2021|Peter   | Chapter 1-2  | Zoom | | 
+|25 May 2021|   | Organization | Zoom | | 
+|1 June 2021|Peter   | Chapter 1-2  | Zoom |[Slides](https://www.dropbox.com/s/9mtzkx1mbqfg7ot/ad_talk_peter_1_2.pdf?dl=0) | 
 |15 June 2021|Francis   | Chapter 3  | Zoom | | 
 |29 June 2021| Dan  | Chapter 4  | Zoom | | 
 |13 July 2021| Shenghao  | Chapter 5  | Zoom | | 
