@@ -15,7 +15,7 @@
 |29 June 2021| Dan  | Chapter 4  | Zoom | | 
 |13 July 2021| Shenghao  | Chapter 5  | Zoom | | 
 |27 July 2021| Chendi  |  ??? | Zoom | | 
-|10 August 2021|   | ??  |Zoom | | 
+|10 August 2021| Ben  | ??  |Zoom | | 
 |24 August 2021|   | ??  |Zoom | | 
 
 ## Presentations (Winter 2021)
