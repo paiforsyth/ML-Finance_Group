@@ -12,7 +12,7 @@
 |25 May 2021|   | Organization | Zoom | | 
 |1 June 2021|Peter   | Chapter 1-2  | Zoom |[Slides](https://www.dropbox.com/s/9mtzkx1mbqfg7ot/ad_talk_peter_1_2.pdf?dl=0) | 
 |15 June 2021|Francis   | Chapter 3  | Zoom |[Slides](https://docs.google.com/presentation/d/1gNWrC1wSVT5emcRplY2-484HLL-k5NTS9aO6t57VFkM/edit?usp=sharing) | 
-|29 June 2021| Dan  | Chapter 4  | Zoom | | 
+|29 June 2021| Dan  | Chapter 4  | Zoom |[Slides](https://www.dropbox.com/s/pi4zxmy232z6zco/chapter4.pdf?dl=0) | 
 |13 July 2021| Shenghao  | Chapter 5  | Zoom | | 
 |27 July 2021| Chendi  |  ??? | Zoom | | 
 |10 August 2021| Ben  | ??  |Zoom | | 
