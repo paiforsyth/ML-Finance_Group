@@ -13,7 +13,7 @@
 |1 June 2021|Peter   | Chapter 1-2  | Zoom |[Slides](https://www.dropbox.com/s/9mtzkx1mbqfg7ot/ad_talk_peter_1_2.pdf?dl=0) | 
 |15 June 2021|Francis   | Chapter 3  | Zoom |[Slides](https://docs.google.com/presentation/d/1gNWrC1wSVT5emcRplY2-484HLL-k5NTS9aO6t57VFkM/edit?usp=sharing) | 
 |29 June 2021| Dan  | Chapter 4  | Zoom |[Slides](https://www.dropbox.com/s/pi4zxmy232z6zco/chapter4.pdf?dl=0) | 
-|13 July 2021| Shenghao  | Chapter 5  | Zoom | | 
+|13 July 2021| Shenghao  | Chapter 5  | Zoom | [Slides](https://www.dropbox.com/s/r1vkvgap9p3nlb6/EvalDerivCh5.pdf?dl=0) | 
 |27 July 2021| Chendi  |  ??? | Zoom | | 
 |10 August 2021| Ben  | ??  |Zoom | | 
 |24 August 2021|   | ??  |Zoom | | 
