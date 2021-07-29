@@ -14,9 +14,8 @@
 |15 June 2021|Francis   | Chapter 3  | Zoom |[Slides](https://docs.google.com/presentation/d/1gNWrC1wSVT5emcRplY2-484HLL-k5NTS9aO6t57VFkM/edit?usp=sharing) | 
 |29 June 2021| Dan  | Chapter 4  | Zoom |[Slides](https://www.dropbox.com/s/pi4zxmy232z6zco/chapter4.pdf?dl=0) | 
 |13 July 2021| Shenghao  | Chapter 5  | Zoom | [Slides](https://www.dropbox.com/s/r1vkvgap9p3nlb6/EvalDerivCh5.pdf?dl=0) | 
-|27 July 2021| Chendi  |  Luca Capriotti, "Fast Greeks by algorithmic differentiation" Journal of Computational Finance Vol 14 (2011) 3-35 | Zoom | | 
-|10 August 2021| Ben  | ??  |Zoom | | 
-|24 August 2021|   | ??  |Zoom | | 
+|27 July 2021| Chendi  |  Luca Capriotti, "Fast Greeks by algorithmic differentiation" Journal of Computational Finance Vol 14 (2011) 3-35 | Zoom | [Slides](https://www.dropbox.com/s/m80j8q9b6smk0fw/Jul_27_Borealis_AI_Presentation%20%281%29.pdf?dl=0) | 
+
 
 ## Presentations (Winter 2021)
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
