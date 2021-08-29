@@ -5,6 +5,7 @@
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
 ## Presentations (Fall 2021)
+Topic: Generation of Synthetic Financial Data
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 14 September 2021| Orginization | Zoom| |
