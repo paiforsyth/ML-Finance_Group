@@ -8,13 +8,13 @@
 Topic: Generation of Synthetic Financial Data
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-| 14 September 2021|| organization | webex| |
-| 28 September 2021||| webex| |
-| 12 October 2021|  || webex| |
-| 26 October 2021| || webex| |
-| 9 November 2021| || webex| |
-| 23 November 2021|  | |webex| |
-| 7 December 2021| || webex| |
+| 14 September 2021|| Organization | Webex| |
+| 28 September 2021||| Webex| |
+| 12 October 2021|  || Webex| |
+| 26 October 2021| || Webex| |
+| 9 November 2021| || Webex| |
+| 23 November 2021|  | |Webex| |
+| 7 December 2021| || Webex| |
 
 ## Presentations (Summer 2021)
 [Text](https://www.amazon.ca/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=evaluating+derivatives&qid=1620660996&sr=8-1): Griewank, Andreas, and Andrea Walther. Evaluating derivatives: principles and techniques of algorithmic differentiation. Society for Industrial and Applied Mathematics, 2008.
