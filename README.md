@@ -10,7 +10,7 @@ Topic: Generation of Synthetic Financial Data
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 14 September 2021|| Organization | Webex| |
 | 28 September 2021|Chendi|Bootstrap Methods in Quantiative Finance| Webex|[Slides](https://www.dropbox.com/s/9rgujb8hxjsjzif/Sept_28_2021_chendi.pdf?dl=0) |
-| 12 October 2021|Dan  || Webex| |
+| 12 October 2021|Dan  | [Quant GANS](https://www.tandfonline.com/doi/abs/10.1080/14697688.2020.1730426) | Webex|[Slides](https://www.dropbox.com/s/upnhkzqjxb9w4xo/quant_gan.pdf?dl=0) |
 | 26 October 2021| [Talk by John Hull](https://rotman.force.com/events/s/special-event/a1V2B0000001dD1UAI/synthetic-data-a-new-regulatory-tool) || See link| |
 | 2 November 2021| Ben || Webex| |
 | 9 November 2021|Finhub || Webex| |
