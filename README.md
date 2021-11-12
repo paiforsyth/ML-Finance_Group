@@ -13,7 +13,7 @@ Topic: Generation of Synthetic Financial Data
 | 12 October 2021|Dan  | [Quant GANS](https://www.tandfonline.com/doi/abs/10.1080/14697688.2020.1730426) | Webex|[Slides](https://www.dropbox.com/s/upnhkzqjxb9w4xo/quant_gan.pdf?dl=0) |
 | 26 October 2021| [Talk by John Hull](https://rotman.force.com/events/s/special-event/a1V2B0000001dD1UAI/synthetic-data-a-new-regulatory-tool) || See link| |
 | 2 November 2021| Ben |Evaluation of Deep Generative Models| Webex|[Slides](https://www.dropbox.com/s/nz6nxqinnqzoypj/2021_11_02_van_der_schaar.pptx?dl=0) |
-| 9 November 2021|Finhub || Webex| |
+| 9 November 2021|Anderson |VAE for Volatility Surfaces| Webex| [Slides](https://www.dropbox.com/s/nejri9d6ixleyob/VAE%20for%20Volatility%20Surfaces.pdf?dl=0)|
 | 23 November 2021| Marc | |Webex| |
 | 7 December 2021|Qinglan || Webex| |
 
