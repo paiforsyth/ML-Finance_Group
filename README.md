@@ -14,7 +14,7 @@ Topic: Generation of Synthetic Financial Data
 | 26 October 2021| [Talk by John Hull](https://rotman.force.com/events/s/special-event/a1V2B0000001dD1UAI/synthetic-data-a-new-regulatory-tool) || See link| |
 | 2 November 2021| Ben |Evaluation of Deep Generative Models| Webex|[Slides](https://www.dropbox.com/s/nz6nxqinnqzoypj/2021_11_02_van_der_schaar.pptx?dl=0) |
 | 9 November 2021|Anderson |VAE for Volatility Surfaces| Webex| [Slides](https://www.dropbox.com/s/nejri9d6ixleyob/VAE%20for%20Volatility%20Surfaces.pdf?dl=0)|
-| 23 November 2021| Marc | |Webex| |
+| 23 November 2021| Marc |Clustering Market Regimes Using the Wasserstein Distance |Webex|[Slides](https://www.dropbox.com/s/x3m3uhq9nfaggnv/Clustering%20Market%20Regimes%20Using%20the%20Wasserstein%20Distance.pptx?dl=0) |
 | 7 December 2021|Qinglan || Webex| |
 
 ## Presentations (Summer 2021)
