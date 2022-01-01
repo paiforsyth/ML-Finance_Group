@@ -15,7 +15,7 @@ Topic: Generation of Synthetic Financial Data
 | 2 November 2021| Ben |Evaluation of Deep Generative Models| Webex|[Slides](https://www.dropbox.com/s/nz6nxqinnqzoypj/2021_11_02_van_der_schaar.pptx?dl=0) |
 | 9 November 2021|Anderson |VAE for Volatility Surfaces| Webex| [Slides](https://www.dropbox.com/s/nejri9d6ixleyob/VAE%20for%20Volatility%20Surfaces.pdf?dl=0)|
 | 23 November 2021| Marc |Clustering Market Regimes Using the Wasserstein Distance |Webex|[Slides](https://www.dropbox.com/s/x3m3uhq9nfaggnv/Clustering%20Market%20Regimes%20Using%20the%20Wasserstein%20Distance.pptx?dl=0) |
-| 7 December 2021|Qinglan || Webex| |
+| 7 December 2021|Qinglan |Generating Realistic Stock Market Order Streams| Webex|[Slides](https://www.dropbox.com/s/wapqz8jhhgo75z3/pre_cao%5B830%5D.pdf?dl=0) |
 
 ## Presentations (Summer 2021)
 [Text](https://www.amazon.ca/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=evaluating+derivatives&qid=1620660996&sr=8-1): Griewank, Andreas, and Andrea Walther. Evaluating derivatives: principles and techniques of algorithmic differentiation. Society for Industrial and Applied Mathematics, 2008.
