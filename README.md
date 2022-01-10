@@ -4,6 +4,18 @@
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
 
+## Presentations (Winter 2022)
+Topic: The Retail investor
+|Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+| 25 January 2022|| Organization | Webex| |
+| 8 February 2022|| | Webex| |
+| 22 February 2022||  | Webex| |
+| 8 March 2022||  | Webex| |
+| 22 March 2022||  | Webex| |
+| 5 April 2022||  | Webex| |
+| 19 April 2022|| | Webex| |
+
 ## Presentations (Fall 2021)
 Topic: Generation of Synthetic Financial Data
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
@@ -102,13 +114,3 @@ Topic: Generation of Synthetic Financial Data
 * Present a summary of the paper.
 
 * Be sure to include necessary background.  It is preferable to spend time explaining things you think are obvious than to risk the audience not understanding your presentation
-
-## Non-Exclusive List of Potential Topics
-* Reinforcement learning for finance (investing, [hedging](https://arxiv.org/pdf/1802.03042.pdf), order execution, [market making](https://arxiv.org/pdf/1911.05892.pdf))
-* Neural networks as interpolants (for [fast calibration](https://arxiv.org/pdf/1901.09647.pdf))
-* Distribution learning with financial data (perhaps using [GANs](https://arxiv.org/pdf/1907.06673.pdf), normalizing flows)
-* Prediction ([high](https://arxiv.org/pdf/1803.06917.pdf) and [low](http://dachxiu.chicagobooth.edu/download/ML.pdf) frequency)
-
-## Why Applying Deep Learning to Finance is Hard
-* Data is non-stationary and extremely limited (except in high-frequency applications).
-* Interpretability is vital, both for anticipating how a model will behave in novel circumstances, and for persuading clients and regulators.
