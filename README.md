@@ -20,6 +20,7 @@ Topic: The Retail investor
 #### Finance
 - https://www.tandfonline.com/doi/abs/10.1080/1351847X.2016.1151805
 - https://www.nber.org/papers/w9116
+- https://pure.hw.ac.uk/ws/files/42550851/STAR_decumulation.pdf
 #### ML Finance
 - https://link.springer.com/article/10.1007/s00780-021-00467-2
 - https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
