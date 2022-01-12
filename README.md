@@ -16,6 +16,15 @@ Topic: The Retail investor
 | 5 April 2022||  | Webex| |
 | 19 April 2022|| | Webex| |
 
+### Possible Papers:
+#### Finance
+- https://www.tandfonline.com/doi/abs/10.1080/1351847X.2016.1151805
+- https://www.nber.org/papers/w9116
+#### ML Finance
+- https://link.springer.com/article/10.1007/s00780-021-00467-2
+- https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
+
+
 ## Presentations (Fall 2021)
 Topic: Generation of Synthetic Financial Data
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
