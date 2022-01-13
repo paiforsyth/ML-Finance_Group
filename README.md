@@ -24,6 +24,8 @@ Topic: The Retail investor
 #### ML Finance
 - https://link.springer.com/article/10.1007/s00780-021-00467-2
 - https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
+#### ML
+- https://arxiv.org/abs/1911.03618
 
 
 ## Presentations (Fall 2021)
