@@ -25,6 +25,7 @@ Topic: The Retail investor
 - https://link.springer.com/article/10.1007/s00780-021-00467-2
 - https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
 - https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zRu4foAAAAJ&sortby=pubdate&citation_for_view=-zRu4foAAAAJ:e5wmG9Sq2KIC
+- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zRu4foAAAAJ&sortby=pubdate&citation_for_view=-zRu4foAAAAJ:O3NaXMp0MMsC
 #### ML
 - https://arxiv.org/abs/1911.03618
 
