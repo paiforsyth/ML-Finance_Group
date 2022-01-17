@@ -9,7 +9,7 @@ Topic: The Retail investor
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 25 January 2022|| Organization | Webex| |
-| 8 February 2022|| | Webex| |
+| 8 February 2022|Peter| | Webex| |
 | 22 February 2022||  | Webex| |
 | 8 March 2022||  | Webex| |
 | 22 March 2022||  | Webex| |
@@ -21,6 +21,7 @@ Topic: The Retail investor
 - https://www.tandfonline.com/doi/abs/10.1080/1351847X.2016.1151805
 - https://www.nber.org/papers/w9116
 - https://pure.hw.ac.uk/ws/files/42550851/STAR_decumulation.pdf
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302111
 #### ML Finance
 - https://link.springer.com/article/10.1007/s00780-021-00467-2
 - https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
