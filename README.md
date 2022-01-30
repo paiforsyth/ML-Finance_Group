@@ -24,6 +24,7 @@ Topic: The Retail investor
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302111
 #### ML Finance
 - https://epubs.siam.org/doi/abs/10.1137/19M1274924
+- https://www.nber.org/papers/w29559
 - https://link.springer.com/article/10.1007/s00780-021-00467-2
 - https://cs.uwaterloo.ca/~paforsyt/Stochastic_Benchmark.pdf
 - https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-zRu4foAAAAJ&sortby=pubdate&citation_for_view=-zRu4foAAAAJ:e5wmG9Sq2KIC
