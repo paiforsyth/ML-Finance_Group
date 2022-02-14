@@ -9,7 +9,7 @@ Topic: The Retail investor
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 25 January 2022|| Organization | Webex| |
-| 8 February 2022|Peter| | Webex| |
+| 8 February 2022|Peter| | Webex|[Slides](https://www.dropbox.com/s/5fvm1gh3f16n0xb/pension_decumulation_strategies_truncated_pdf.pdf?dl=0) |
 | 22 February 2022||  | Webex| |
 | 8 March 2022|Muhammed|  | Webex| |
 | 22 March 2022|Francis | | Webex| |
