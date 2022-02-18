@@ -22,6 +22,7 @@ Topic: The Retail investor
 - https://www.nber.org/papers/w9116
 - https://pure.hw.ac.uk/ws/files/42550851/STAR_decumulation.pdf
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302111
+- [Retirement Income Sufficicency through personalized glidepaths](https://www.dropbox.com/s/ovfpoo69pfsk3um/Retirement%20Income%20Sufficiency%20through%20Personalised%20Glidepaths.pdf?dl=0)
 #### ML Finance
 - https://epubs.siam.org/doi/abs/10.1137/19M1274924
 - https://www.nber.org/papers/w29559
