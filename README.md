@@ -9,10 +9,10 @@ Topic: Deep Hedging
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 7 June 2022 || Organization | Webex |
-| 21 June 2022 || | Webex |
-| 5 July 2022 || | Webex |
-| 19 July 2022 || | Webex |
-| 3 August 2022 || | Webex |
+| 21 June 2022 || Finhub  | Webex |
+| 5 July 2022 || Frédéric Godin  | Webex |
+| 19 July 2022 || Peter | Webex |
+| 3 August 2022 || Andrew | Webex |
 | 16 August 2022 || | Webex |
 ## Presentations (Winter 2022)
 Topic: The Retail investor
