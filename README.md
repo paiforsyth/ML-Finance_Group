@@ -10,9 +10,9 @@ Topic: Deep Hedging
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 | 7 June 2022 || Organization | Webex |
 | 21 June 2022 | Finhub| Deep theta and gamma hedging | Webex |[Slides](https://www.dropbox.com/s/kmgns9ho5av6w4k/Deep_Hedging_JH_JC_ZP_v2.pdf?dl=0) | 
-| 5 July 2022 | Frédéric Godin | Equal risk option pricing with deep reinforcement learning | Webex |
-| 19 July 2022 | Peter || Webex |
-| 3 August 2022 | ??? || Webex |
+| 5 July 2022 | Frédéric Godin | Equal risk option pricing with deep reinforcement learning | Webex | [Slidees](https://www.dropbox.com/s/vniba1q5txudy8s/Slides-BorealisAI2022.pdf?dl=0) |
+| 19 July 2022 | Peter |Transaction costs in deep hedging| Webex |
+| 3 August 2022 | Alexey | Robust Deep hedging| Webex |
 | 16 August 2022 | ??? || Webex |
 ## Presentations (Winter 2022)
 Topic: The Retail investor
