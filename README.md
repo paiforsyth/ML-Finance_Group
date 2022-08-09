@@ -12,7 +12,7 @@ Topic: Deep Hedging
 | 21 June 2022 | Finhub| Deep theta and gamma hedging | Webex |[Slides](https://www.dropbox.com/s/kmgns9ho5av6w4k/Deep_Hedging_JH_JC_ZP_v2.pdf?dl=0) | 
 | 5 July 2022 | Frédéric Godin | Equal risk option pricing with deep reinforcement learning | Webex | [Slides](https://www.dropbox.com/s/vniba1q5txudy8s/Slides-BorealisAI2022.pdf?dl=0) |
 | 19 July 2022 | Peter |Transaction costs in deep hedging| Webex | [Slides](https://www.dropbox.com/s/laq9l8wtuk0kn4r/Transaction_costs_in_deep_hedging.pdf?dl=0)
-| 2 August 2022 | Alexey | Robust Deep hedging| Webex |[Slides](https://www.dropbox.com/s/8ujhyl4gg7cwpir/Robust%20Deep%20Hedging.pdf?dl=0) |
+| 2 August 2022 | Alexey | Robust deep hedging| Webex |[Slides](https://www.dropbox.com/s/8ujhyl4gg7cwpir/Robust%20Deep%20Hedging.pdf?dl=0) |
 | 16 August 2022 | Martin |[Do Differentiable simulators give better policy gradients?](https://arxiv.org/abs/2202.00817#:~:text=Differentiable%20simulators%20promise%20faster%20computation,based%20on%20first%2Dorder%20gradients.) | Webex |
 ## Presentations (Winter 2022)
 Topic: The Retail investor
