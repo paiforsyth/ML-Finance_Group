@@ -23,7 +23,7 @@ Topic: The Retail investor
 | 22 February 2022|Francis| Neural Portfolio Optimization  | Webex|[Slides](https://docs.google.com/presentation/d/1MS7nLiUMrhhC7gTaHpHk1IwRZiS2MYrvZ9WJdDKMdBA/edit?usp=sharing) |
 | 8 March 2022|Muhammed|  Tontines | Webex| [Slides](https://www.dropbox.com/s/gbfmqpb3v3gtlc3/Tontine_Presentation%20%282%29.pptx?dl=0) |
 | 22 March 2022| Alexey | Annuties | Webex| [Slides](https://www.dropbox.com/s/3p1odqs9i8e2ipd/Life%20Insurance%20and%20Annuities%20%281%29.pptx?dl=0) |
-| 5 April 2022|Dan| Goal-based Weatlh Management  | Webex| [Slides](https://www.dropbox.com/s/zx5y08hgpz1o4ea/dan_wealth_management.pdf?dl=0) |
+| 5 April 2022|Dan| Goal-based Wealth Management  | Webex| [Slides](https://www.dropbox.com/s/zx5y08hgpz1o4ea/dan_wealth_management.pdf?dl=0) |
 | 19 April 2022|Graham| The retail landscape: asset managers, taxes & the investor life cycle| Webex| [Slides](https://www.dropbox.com/s/e1zstafm73amlzd/ML_UW_Apr2022_MD_V2.pdf?dl=0) |
 
 ### Possible Papers:
