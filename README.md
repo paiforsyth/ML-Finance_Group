@@ -4,6 +4,16 @@
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
  
+ ## Presentations (Fall 2022)
+Topic: Open
+|Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+|27 September 2022|| Organization |Webex|
+|11 October 2022|  |||
+|25 October 2022|  |||
+|8 November 2022|  |||
+|22 November 2022|  |||
+|6 December 2022|  |||
 ## Presentations (Summer 2022)
 Topic: Deep Hedging
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
