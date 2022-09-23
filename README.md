@@ -9,7 +9,7 @@ Topic: Open
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |27 September 2022|| Organization |Webex|
-|11 October 2022|  |||
+|11 October 2022|[Yuying Li](https://cs.uwaterloo.ca/~yuying/) |Optimal dynamic allocation without dynamic programming  | Webex   |
 |25 October 2022|  |||
 |8 November 2022|  |||
 |22 November 2022|  |||
