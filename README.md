@@ -10,10 +10,10 @@ Topic: Open
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |27 September 2022|| Organization |Webex|
 |11 October 2022|[Yuying Li](https://cs.uwaterloo.ca/~yuying/) |Optimal dynamic allocation without dynamic programming  | Webex   |
-|25 October 2022|  |||
-|8 November 2022|  |||
-|22 November 2022|  |||
-|6 December 2022|  |||
+|25 October 2022| Mohamed Ahmed |||
+|8 November 2022|Chendi  |||
+|22 November 2022| [Frédéric Godin](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=frederic-godin)  |||
+|6 December 2022| Peter |||
 ## Presentations (Summer 2022)
 Topic: Deep Hedging
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
