@@ -12,7 +12,7 @@ Topic: Open
 |11 October 2022|[Yuying Li](https://cs.uwaterloo.ca/~yuying/) |Optimal dynamic allocation without dynamic programming  | Webex   |
 |25 October 2022| [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-osama-ahmed-91439a154/) |Monotone neural networks|Webex|
 |8 November 2022|[Chendi](https://www.linkedin.com/in/chendini/)  |Investment under high inflation| Webex|
-|22 November 2022| [Frédéric Godin](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=frederic-godin)  |Extreme value theory and machine learning|Webex|
+|22 November 2022| [Frédéric Godin](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=frederic-godin)  |Bridging the gap between reinforcement learning and extreme value theory|Webex|
 |6 December 2022| [Peter](https://www.linkedin.com/in/peter-forsyth/) |Credit cards|Webex|
 ## Presentations (Summer 2022)
 Topic: Deep Hedging
