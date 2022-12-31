@@ -13,7 +13,7 @@ Topic: Open
 |25 October 2022| [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-osama-ahmed-91439a154/) |Monotone neural networks|Webex| [Slides](https://www.dropbox.com/s/n2hlw8kiekvxzkt/Monotonicity_ML_Finance_25_10_22.pptx?dl=0)|
 |8 November 2022|[Chendi](https://www.linkedin.com/in/chendini/)  |Investment under high inflation| Webex|[Slides](https://www.dropbox.com/s/c4unr6xxvqftn3h/high_inflation_presentation.pdf?dl=0) |
 |22 November 2022| [Frédéric Godin](https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=frederic-godin)  |Bridging the gap between reinforcement learning and extreme value theory ([Abstract](abstracts/godin_nov_2022.md)) |Webex| [Slides](https://www.dropbox.com/s/dd4cbgvh99ciip4/BorealisAINov2022.pdf?dl=0)
-|13 December 2022| [Peter](https://www.linkedin.com/in/peter-forsyth/) |ML for credit|Webex|
+|13 December 2022| [Peter](https://www.linkedin.com/in/peter-forsyth/) |ML for credit|Webex| [Slides](https://www.dropbox.com/s/opzyfc9znd0mbhx/Dec_2022_reading_group_presentation_version_3%20%284%29.pdf?dl=0)
 ## Presentations (Summer 2022)
 Topic: Deep Hedging
 |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
