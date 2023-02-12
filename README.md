@@ -10,9 +10,9 @@
 |7 February 2023 | | Organization| Webex|
 | 21 February 2023| [Raquel Aoki](https://www.linkedin.com/in/raquelaoki/)| Intro to Causality for ML Finance | Webex|
 | 7 March 2023| [Tristan Sylvain](https://www.linkedin.com/in/tristansylvain/)|| Webex|
-| 21 March 2023| ||Webex|
+| 21 March 2023| Andrew Na |  GANS for Volatility Surfaces  |Webex|
 | 4 April 2023|[Francis Duplessis](https://www.linkedin.com/in/francisduplessis/) ||Webex|
-| 18 April 2023| ||Webex|
+| 18 April 2023|Marc  | ML without dynamic programming |Webex|
 
  ## Presentations (Fall 2022)
 Topic: Open
