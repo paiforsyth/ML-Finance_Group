@@ -12,7 +12,7 @@
 | 7 March 2023| [Tristan Sylvain](https://www.linkedin.com/in/tristansylvain/)|Scaleformer Iterative Multi-scale Refining Transformers for Time Series Forecasting| Webex|[Slides](https://www.dropbox.com/s/hh07gs9qmp801j5/ML_Finance_RG_07_03_23.pdf?dl=0) |
 | 21 March 2023| Andrew Na |  GANS for Volatility Surfaces  |Webex |  [Slides](https://www.dropbox.com/s/ie3sd02cuwtmxkf/LearningVolSurface_Andrew.pptx?dl=0) |
 | 4 April 2023|[Francis Duplessis](https://www.linkedin.com/in/francisduplessis/) |Next Generation Language Models and an open discussion of their uses in finance |Webex|
-| 18 April 2023|Marc  | ML without dynamic programming |Webex|
+| 18 April 2023|Marc Andre Chen and Mohammed Shirazi| Determining an Optimal Dynamic Allocation/ Decumulation Strategy Using NNs|Webex|
 
  ## Presentations (Fall 2022)
 Topic: Open
