@@ -4,6 +4,16 @@
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
  
+ ## Presentations (Summer 2023. Tenatative)
+  |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
+|:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
+|20 June 2023 | | Organization| Webex|
+|4 July 2023 | | | Webex|
+|18 July 2023 | | | Webex|
+|1 August 2023 | | | Webex|
+|15 August 2023 | | | Webex|
+|29 August 2023 | | | Webex|
+
  ## Presentations (Winter 2023)
  |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
