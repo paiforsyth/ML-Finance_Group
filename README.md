@@ -1,6 +1,6 @@
 # University of Waterloo / Borealis AI Machine Learning and Finance Reading Group
 
-**Organizer**: [Peter Forsyth Jr.](mailto:peter.forsyth@borealisai.com)
+**Organizer**: [Peter Forsyth Jr.](https://www.linkedin.com/in/peter-forsyth/)
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
  
