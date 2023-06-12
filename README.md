@@ -9,7 +9,7 @@
   Theme: Large Language Models
   |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
-|4 July 2023 | Organization | | Webex|
+|4 July 2023 |  | Organization| Webex|
 |18 July 2023 | [Wenjie Zi](https://www.linkedin.com/in/wenjie-richie-zi/) | Introduction to LLMs| Webex|
 |1 August 2023 | | | Webex|
 |15 August 2023 | | | Webex|
