@@ -6,6 +6,7 @@
  
  
   ## Presentations (Summer 2023. Tenatative)
+  Theme: Large Language Models
   |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |4 July 2023 | Organization | | Webex|
