@@ -13,7 +13,7 @@
 |18 July 2023 | [Wenjie Zi](https://www.linkedin.com/in/wenjie-richie-zi/) | Introduction to LLMs| Webex|
 |1 August 2023 | | | Webex|
 |15 August 2023 | [Peter Forsyth](https://www.linkedin.com/feed/) | | Webex|
-|29 August 2023 | | | Webex|
+|29 August 2023 | | Hanieh, Jacey, Lorne | Webex|
 
 
 
