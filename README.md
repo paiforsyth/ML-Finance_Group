@@ -14,7 +14,7 @@
 |1 August 2023 | | | Webex|
 |15 August 2023 | [Peter Forsyth](https://www.linkedin.com/in/peter-forsyth/) | [Generative AI at Work](https://arxiv.org/abs/2304.11771) | Webex|
 |29 August 2023 |[Hanieh](https://www.linkedin.com/in/hanieh/), [Jacey](https://www.linkedin.com/in/jiaxiao-jacey-wu-846b995b/), [Lorne](https://www.linkedin.com/in/orangetoaster/)  | | Webex|
-|12 September 2023 |[Eric Jiawei He](https://www.linkedin.com/in/eric-jiawei-he-3827097b/) | |Webex |
+|12 September 2023 |[Eric Jiawei He](https://www.linkedin.com/in/eric-jiawei-he-3827097b/) |[Paper 1](https://arxiv.org/abs/2305.02823), [Paper 2](https://arxiv.org/pdf/2304.07619.pdf?source=trendsvc&medium=email) |Webex |
 |26 September 2023 |  | |Webex |
 
 
