@@ -10,7 +10,7 @@
   |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |4 July 2023 |  | Organization| Webex|
-|18 July 2023 | [Wenjie Zi](https://www.linkedin.com/in/wenjie-richie-zi/) | Introduction to LLMs| Webex|
+|18 July 2023 | [Wenjie Zi](https://www.linkedin.com/in/wenjie-richie-zi/) | Introduction to LLMs| Webex |[Slides](https://www.dropbox.com/scl/fi/33q7intur7877qquhfikd/wenjie_ml_in_finance_talk.pptx?rlkey=h5q4dp3vmgvzzf8nujx4230mt&dl=0)
 |1 August 2023 | | | Webex|
 |15 August 2023 | [Peter Forsyth](https://www.linkedin.com/in/peter-forsyth/) | [Generative AI at Work](https://arxiv.org/abs/2304.11771) | Webex|
 |29 August 2023 |[Hanieh](https://www.linkedin.com/in/hanieh/), [Jacey](https://www.linkedin.com/in/jiaxiao-jacey-wu-846b995b/), [Lorne](https://www.linkedin.com/in/orangetoaster/)  | | Webex|
