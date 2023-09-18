@@ -7,7 +7,7 @@
  ## Presentations (Fall 2023)
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-|3 October 2023| Martin|Chapters 1-2: Financial ML as a distinct subject Financial data structures|
+|3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject Financial data structures|
 |10 October 2023| |Chapters 3-5: Labelling Sample weights Fractionally differentiated features|
  |24 Octover 2023| |Ensemble methods. Feature importance  | 
  |31 October 2023| | Cross-validation in finance. Hyper-parameter tuning with cross-validation|
