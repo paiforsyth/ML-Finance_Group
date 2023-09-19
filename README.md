@@ -5,7 +5,7 @@
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
  
  ## Presentations (Fall 2023)
- Book: https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089
+ Book: [Advances in Financial Machine Learning](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 |3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject Financial data structures|
