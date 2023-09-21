@@ -12,7 +12,7 @@
 |10 October 2023| |Chapters 3-5: Labelling Sample weights Fractionally differentiated features|
  |24 Octover 2023| |Ensemble methods. Feature importance  | 
  |31 October 2023| | Cross-validation in finance. Hyper-parameter tuning with cross-validation|
- |7 November 2023| |Backtesting 1/3 The dangers of backtesting. Backtest statistics|
+ |7 November 2023| [Serena](https://www.linkedin.com/in/serenamcdonnell/) |Backtesting 1/3 The dangers of backtesting. Backtest statistics|
  |14 November 2023| | Backtesting 2/3 Bet sizing Backtesting through cross-validatiog Backtesting on synthetic data|
  |21 November 2023| |  Backtesting 3/3: Understanding strategy risk. ML asset allocation|
  |28 November 2023| | 	Useful features: Structural breaks Entropy features Microstructural features|
