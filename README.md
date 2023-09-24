@@ -5,6 +5,8 @@
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
  
  ## Presentations (Fall 2023)
+ Co-organizer: [Martin](https://www.linkedin.com/in/martin-magill/) 
+ 
  Book: [Advances in Financial Machine Learning](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
