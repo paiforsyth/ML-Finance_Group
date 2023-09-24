@@ -24,10 +24,9 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:-------:|
 |4 July 2023 |  | Organization| Webex|
 |18 July 2023 | [Wenjie Zi](https://www.linkedin.com/in/wenjie-richie-zi/) | Introduction to LLMs| Webex |[Slides](https://www.dropbox.com/scl/fi/33q7intur7877qquhfikd/wenjie_ml_in_finance_talk.pptx?rlkey=h5q4dp3vmgvzzf8nujx4230mt&dl=0)
-|1 August 2023 | | | Webex|
 |15 August 2023 | [Peter Forsyth](https://www.linkedin.com/in/peter-forsyth/) | [Generative AI at Work](https://arxiv.org/abs/2304.11771) | Webex| [Slides](https://www.dropbox.com/scl/fi/6i1jcwithh49fu8iyiuog/ML-Finance-Reading-group-economic-impact-of-llms-v4.pdf?rlkey=snwrrbvn8vap23lu8ks0k3i3t&dl=0)
-|29 August 2023 |[Hanieh](https://www.linkedin.com/in/hanieh/), [Jacey](https://www.linkedin.com/in/jiaxiao-jacey-wu-846b995b/), [Lorne](https://www.linkedin.com/in/orangetoaster/)  | | Webex|
-|12 September 2023 |[Eric Jiawei He](https://www.linkedin.com/in/eric-jiawei-he-3827097b/) |[Paper 1](https://arxiv.org/abs/2305.02823), [Paper 2](https://arxiv.org/pdf/2304.07619.pdf?source=trendsvc&medium=email) |Webex |
+|29 August 2023 |[Hanieh](https://www.linkedin.com/in/hanieh/), [Jacey](https://www.linkedin.com/in/jiaxiao-jacey-wu-846b995b/), [Lorne](https://www.linkedin.com/in/orangetoaster/)  | Taming the Jargon: How LLMs transform financial conversations into insights| Webex|
+|12 September 2023 |[Eric Jiawei He](https://www.linkedin.com/in/eric-jiawei-he-3827097b/) |[Paper 1](https://arxiv.org/abs/2305.02823), [Paper 2](https://arxiv.org/pdf/2304.07619.pdf?source=trendsvc&medium=email) |Webex | [Slides](https://www.dropbox.com/scl/fi/a54gus5mylnvzf1254sa3/Can-ChatGPT-Forecast-Stock-Price-Movements.pdf?rlkey=u43woujoxur1nel7fs1lyy6be&dl=0)
 
 
 
