@@ -6,7 +6,9 @@
  
  ## Presentations (Fall 2023)
  Co-organizer: [Martin](https://www.linkedin.com/in/martin-magill/) 
+
  Modified format: 20 minute talk.  10 minutes of discussion.
+
  Book: [Advances in Financial Machine Learning](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
