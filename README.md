@@ -13,7 +13,7 @@
 |3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject. Financial data structures.|
 |10 October 2023| |Chapters 3-5: Labelling Sample weights. Fractionally differentiated features.|
  |24 Octover 2023| [Tristan](https://www.linkedin.com/in/tristansylvain/) |Chapters 6,8: Ensemble methods. Feature importance.  | 
- |31 October 2023| [Alex](https://www.linkedin.com/in/alexpashevich/) |Chapter 7,9: Cross-validation in finance. Hyper-parameter tuning with cross-validation.|
+ |31 October 2023| [Alex](https://www.linkedin.com/in/alexpashevich/) |Chapters 7, 9: Cross-validation in finance. Hyper-parameter tuning with cross-validation.|
  |7 November 2023| [Serena](https://www.linkedin.com/in/serenamcdonnell/) |Chapters 11, 14: Backtesting 1/3.  The dangers of backtesting. Backtest statistics.|
  |14 November 2023| | Chapters 10, 12, 13: Backtesting 2/3.  Bet sizing. Backtesting through cross-validatiog. Backtesting on synthetic data.|
  |21 November 2023|  [Alexey](https://www.linkedin.com/in/alexey-deynega-6972165/) |Chapters 15, 16:  Backtesting 3/3: Understanding strategy risk. ML asset allocation.|
