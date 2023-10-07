@@ -13,7 +13,7 @@
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 |3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject. Financial data structures.|
-|10 October 2023| |Chapters 3,4: Labelling. Sample weights.|
+|10 October 2023|[Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 3,4: Labelling. Sample weights.|
  |24 Octover 2023| [Tristan](https://www.linkedin.com/in/tristansylvain/) |Chapters 6, 8: Ensemble methods. Feature importance.  | 
  |31 October 2023| [Alex](https://www.linkedin.com/in/alexpashevich/) |Chapters 7, 9: Cross-validation in finance. Hyper-parameter tuning with cross-validation.|
  |7 November 2023| [Serena](https://www.linkedin.com/in/serenamcdonnell/) |Chapters 11, 14: Backtesting 1/3.  The dangers of backtesting. Backtest statistics.|
