@@ -12,8 +12,8 @@
  Book: [Advances in Financial Machine Learning](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 |Date|Presenter  | Topic|  Slides (Optional) | 
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-|3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject. Financial data structures.|
-|10 October 2023|[Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 3,4: Labelling. Sample weights.|
+|3 October 2023| [Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 1-2: Financial ML as a distinct subject. Financial data structures.| [Slides](https://www.dropbox.com/scl/fi/k6n646pu3w2le5d9708js/2023-10-03-dePrado-Chapters1to2.pptx?rlkey=eple6mggl4cvzfc51glh1v01z&dl=0)
+|10 October 2023|[Martin](https://www.linkedin.com/in/martin-magill/) |Chapters 3,4: Labelling. Sample weights.|[Slides](https://www.dropbox.com/scl/fi/qxl41rvpxjy9nxlfs3m2n/2023-10-10-dePrado-Chapters3to4.pptx?rlkey=on73fc0e95h2155bsi7g2iz0o&dl=0) | 
  |24 Octover 2023| [Tristan](https://www.linkedin.com/in/tristansylvain/) |Chapters 6, 8: Ensemble methods. Feature importance.  | 
  |31 October 2023| [Alex](https://www.linkedin.com/in/alexpashevich/) |Chapters 7, 9: Cross-validation in finance. Hyper-parameter tuning with cross-validation.|
  |7 November 2023| [Serena](https://www.linkedin.com/in/serenamcdonnell/) |Chapters 11, 14: Backtesting 1/3.  The dangers of backtesting. Backtest statistics.|
