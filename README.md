@@ -20,7 +20,7 @@
  |14 November 2023| [Eric](https://www.linkedin.com/in/eric-jiawei-he-3827097b/) | Chapters 10, 12, 13: Backtesting 2/3.  Bet sizing. Backtesting through cross-validation. Backtesting on synthetic data.|
  |21 November 2023|  [Alexey](https://www.linkedin.com/in/alexey-deynega-6972165/) |Chapters 15, 16:  Backtesting 3/3: Understanding strategy risk. ML asset allocation.|
  |28 November 2023|[Cynthia](https://www.linkedin.com/in/cynthia-hongfeng-huang/) | Chapters 17, 18, 19: 	Useful features: Structural breaks. Entropy features. Microstructural features.|
-  |5 December 2023| [Kry](https://www.linkedin.com/in/yik-chau-kry-lui-3887a955/) |Chaper 5: Fractionaly Differentiated Features|
+  |5 December 2023| [Kry](https://www.linkedin.com/in/yik-chau-kry-lui-3887a955/) |Chapter 5: Fractionaly Differentiated Features|
  ## Presentations (Summer 2023)
   Theme: Large Language Models
   |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
