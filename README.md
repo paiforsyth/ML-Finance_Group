@@ -19,8 +19,9 @@
  |7 November 2023| [Serena](https://www.linkedin.com/in/serenamcdonnell/) |Chapters 11, 14: Backtesting 1/3.  The dangers of backtesting. Backtest statistics.| [Slides](https://docs.google.com/presentation/d/1jQzyRPB8Ae8HuvenDilL7ZZ6MLO79WgeX5Fdn7lCtEY/edit?usp=sharing)
  |21 November 2023| [Eric](https://www.linkedin.com/in/eric-jiawei-he-3827097b/)  |Chapters 10, 12, 13.|
   | 28 November 2023 | [Alexey](https://www.linkedin.com/in/alexey-deynega-6972165/)| Chapters 15, 16
-  |5 December 2023| [Kry](https://www.linkedin.com/in/yik-chau-kry-lui-3887a955/) |Chapter 5: Fractionaly Differentiated Features|
-   |12 December 2023|[Cynthia](https://www.linkedin.com/in/cynthia-hongfeng-huang/) | Chapters 17, 18, 19: 	Useful features: Structural breaks. Entropy features. Microstructural features.|
+   |5 December 2023|[Cynthia](https://www.linkedin.com/in/cynthia-hongfeng-huang/) | Chapters 17, 18, 19: 	Useful features: Structural breaks. Entropy features. Microstructural features.|
+   |12 December 2023| [Kry](https://www.linkedin.com/in/yik-chau-kry-lui-3887a955/) |Chapter 5: Fractionaly Differentiated Features|
+
  ## Presentations (Summer 2023)
   Theme: Large Language Models
   |Date|Presenter  | Topic| Location (May change)| Slides (Optional) | 
