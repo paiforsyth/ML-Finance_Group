@@ -3,8 +3,11 @@
 **Organizer**: [Peter Forsyth Jr.](https://www.linkedin.com/in/peter-forsyth/)
 
  [Mailing List](https://lists.uwaterloo.ca/mailman/listinfo/ml-finance)
+
+## Winter 2024
+The reading group is on hiatus this term.
  
- ## Presentations (Fall 2023)
+## Presentations (Fall 2023)
  Co-organizer: [Martin](https://www.linkedin.com/in/martin-magill/) 
 
  Modified format: 20 minute talk.  10 minutes of discussion.
